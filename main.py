@@ -60,3 +60,5 @@ class UserService {
 }
 
 export { UserService, type User, type ApiResponse };
+
+# PR Merge: 2025-10-21 - docs/merge-1582
